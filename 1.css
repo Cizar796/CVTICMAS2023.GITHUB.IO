@@ -22,7 +22,7 @@ legend{
   padding: 0px;
 }
 div#bloqtodo{
-width: 1730px;
+width: 1900px;
 height: 1170px;
 margin: auto;
 background-color: rgb(2, 1, 0);
@@ -31,7 +31,7 @@ margin-top: 0px;
 div#bloqderecha{
   float: right;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-  width:1352px ;
+  width:1517px ;
   height:200px ;
   background-color: rgb(209, 209, 209);
   border-style: double;
@@ -60,7 +60,7 @@ div#bloqidioma{
 }
 div#infoder{
   float: right;
-  width: 1352px;
+  width: 1517px;
   height:950px ;
   background-color: rgb(209, 209, 209);
   border-style: double;
