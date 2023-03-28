@@ -1,0 +1,121 @@
+body { color: rgb(19, 17, 19) }
+body { background-color: #cef8f2 }
+img{
+  border-radius: 50%; 
+  border-width: 4mm;
+  border-top-color: black;
+  border-style: solid;
+}
+fieldset{
+  margin-bottom: 10px;
+}
+legend{
+  border:solid 10px black;
+  border-radius: 25%;
+  padding: 5px;
+  background-color: rgb(122, 124, 123);
+  
+
+}
+*{
+  margin:0px ;
+  padding: 0px;
+}
+div#bloqtodo{
+width: 1730px;
+height: 1170px;
+margin: auto;
+background-color: rgb(2, 1, 0);
+margin-top: 0px;
+}
+div#bloqderecha{
+  float: right;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  width:1352px ;
+  height:200px ;
+  background-color: rgb(209, 209, 209);
+  border-style: double;
+  border-radius: 20%;
+  font-size: 1000% }
+  h6{text-align: center;}
+div#body1{
+  width:355px ;
+  height:696px ;
+  background-color: rgb(209, 209, 209);
+  border-style: double;
+}
+div#bloqueobj{
+  width:355px ;
+  height:300px ;
+  background-color: rgb(209, 209, 209);
+  border-style: double;
+}
+div#bloqidioma{
+  width:355px ;
+  height:150px ;
+  background-color: rgb(209, 209, 209);
+  border-style: double;
+  font-size: 200%;
+  
+}
+div#infoder{
+  float: right;
+  width: 1352px;
+  height:950px ;
+  background-color: rgb(209, 209, 209);
+  border-style: double;
+  font-size: 155%;
+  
+
+}
+a{
+  display: block;
+  width: 70px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 120;
+  background-color: aquamarine;
+  border-radius: 10px; 
+  padding: 15px 20px;
+  margin: 15px 20px;
+  color: blue;
+  text-decoration: none;
+}
+div#unjava{
+  background-color: rgb(138, 133, 143);
+  font-family: 'Times New Roman', Times, serif;
+  width: 20%;
+  height: 10%;
+  border-radius: 10%;
+  top: 0;
+  left: 30;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  float: right;
+
+}
+.reloj{
+  display:inline-block;
+  background-color: rgb(159, 159, 216);
+  color: rgb(29, 10, 202);
+  padding: 30px;
+  font-weight: bold;
+  font-size: 30px;
+  
+  border: 10px
+  
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
